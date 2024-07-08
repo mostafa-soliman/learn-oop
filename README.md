@@ -1,7 +1,10 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
+-inheritance
+-polymorphism(overloading and overriding)
+-abstraction(interfaces and abtract classes)
+-encapsulation
+-composition & aggregation
 ## Folder Structure
 
 The workspace contains two folders by default, where:
