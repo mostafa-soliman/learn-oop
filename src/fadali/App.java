@@ -20,7 +20,7 @@ public class App {
         System.out.println("a to:" + to.getBalance());
 
         /* Association, Aggregation, Composition */
-        Department dept = new Department(165465, "CS");
+        Department dept = new Department(165465, "CS"); // Aggregation
         Employee employee = new Employee(6868, 940.0f, "mostafa", "soliman", "fadali", "B-", "94867-894", "EG", "1992",
                 dept);
 

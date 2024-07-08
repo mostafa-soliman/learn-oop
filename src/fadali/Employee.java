@@ -3,8 +3,8 @@ package fadali;
 public class Employee {
     private int Id;
     private float salary;
-    private PersonalInformation personalInformation;
-    private Department dept;
+    private PersonalInformation personalInformation; // Composition
+    private Department dept; // Aggregation
 
     public Employee() {
     }
